@@ -1,9 +1,10 @@
-# Getting Started with Create login app
+# Getting started with login app
+
+## Change the project directory 
 
 ### `cd login-app`
 
-## In the project directory, 
-## install project dependencies and build
+## In the project directory, install project dependencies and build
 
 ### `npm install`
 
